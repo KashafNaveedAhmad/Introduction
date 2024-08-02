@@ -4,3 +4,4 @@ I'm 19 years old.
 I'm from Faisalabad , Pakistan.
 I have completed my intermediate education with a specialization in Computer Science( ICS ).
 I'm currently pursuing a degree in Software Engineering with a keen interest in Computer Science and Artificial Intelligence.
+In addition to that,I am currently enrolled in a course focused on Applied Generative AI and Cloud Native Development.
