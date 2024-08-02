@@ -6,4 +6,5 @@ I have completed my intermediate education with a specialization in Computer Sci
 I'm currently pursuing a degree in Software Engineering with a keen interest in Computer Science and Artificial Intelligence.
 In addition to that,I am currently enrolled in a course focused on Applied Generative AI and Cloud Native Development.
 I have foundational knowledge in C++ and am currently expanding my skills by learning Python.
-I've done some projects using Visual Studio,including calculator and book management system.
+I have previously completed several projects utilizing Visual Studio, including a calculator application and a book management system.
+Now ,I'm  transitioning to using Visual Studio Code for my development needs.
