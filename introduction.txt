@@ -8,3 +8,4 @@ In addition to that,I am currently enrolled in a course focused on Applied Gener
 I have foundational knowledge in C++ and am currently expanding my skills by learning Python.
 I have previously completed several projects utilizing Visual Studio, including a calculator application and a book management system.
 Now ,I'm  transitioning to using Visual Studio Code for my development needs.
+I am excited to continue expanding my skills and contributing to innovative projects in the field of Artificial Intelligence and Software Engineering.
